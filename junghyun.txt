@@ -1,4 +1,7 @@
 main()
 {
-  please add some function
+
+  func1
 }
+
+
