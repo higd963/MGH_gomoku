@@ -1,2 +1,7 @@
-function d(){
+function a(){
 }
+function b(){
+}
+function c(){
+}
+
